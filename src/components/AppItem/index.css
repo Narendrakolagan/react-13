@@ -1,0 +1,21 @@
+.app-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style-type: none;
+  background-color: #ffffff;
+  border-radius: 20px;
+  max-width: 120px;
+  padding-top: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 20px;
+}
+.app-img {
+  height: 70px;
+  width: 70px;
+}
+.app-name {
+  font-size: 20px;
+  font-weight: 500;
+}
